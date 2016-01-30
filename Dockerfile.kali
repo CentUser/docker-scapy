@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM kalilinux/kali-linux-docker
 MAINTAINER SYA-KE
 
 RUN apt-get update && \
